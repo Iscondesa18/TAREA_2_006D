@@ -1,0 +1,83 @@
+*.letra {
+    font-family: sans-serif;
+    /*color: white;*/
+
+}
+.menu{
+    width: 20%;
+    float: left;
+    background-color:rgb(48, 47, 47); 
+
+} 
+
+.menu a{
+    color: white;
+}
+
+.letraMenu:hover{
+    background-color: rgb(75, 72, 72); 
+    
+}
+
+.contenedor{
+    width: 80%;
+    float: right;
+    /*margin: 0px 0px 0px 0px;*/
+
+}
+
+.articulo1{
+    background-color: cyan; 
+    float: right;
+    padding:10px;
+    height: 25%;
+    margin-right: 45px;
+    
+    
+}
+.articulo2{
+    background-color:yellow; 
+    float: right;
+    padding: 10px;
+    height: 25%;
+    margin-right: 45px;
+}
+.articulo3{
+    background-color:orange; 
+    float: right;
+    padding: 10px;
+    height: 25%;
+    margin-right: 45px;
+}
+.articulo4{
+    background-color:red; 
+    float: right;
+    padding: 10px;
+    height: 25%;
+    margin-right: 45px;
+}
+
+ul{
+    display: block;
+}
+
+li{
+    display: block;
+}
+
+
+
+
+
+.colorbody{
+    background-color: rgb(48, 47, 47);    
+   /* float: right;     
+    width: 200px;       
+    height: 700px; 
+}*/
+}
+
+
+.contenedor p,h1{
+    color: white;
+}
