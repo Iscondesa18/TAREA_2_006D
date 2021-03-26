@@ -1,2 +1,4 @@
-# TAREA_ISAAC_006D
-Programacion web seccion 006D
+# TAREA_2_006D
+Sebastian cordero
+Isaac Condesa
+Esteban Espinoza
